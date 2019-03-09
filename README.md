@@ -1,4 +1,4 @@
-# Atmosphere-Release-Chcker
+# Atmosphere-Release-Checker
 C# GUI to check releases of the Nintendo Switch custom firmware Atmosphère
 
 Replace "Insert Client Name Here" with your client name and "Enter Auth Token Here" with your GitHub auth token in Form1.cs
