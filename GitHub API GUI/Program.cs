@@ -11,7 +11,7 @@ namespace GitHub_API_GUI
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// Ok
+        /// 
         [STAThread]
         static void Main()
         {
