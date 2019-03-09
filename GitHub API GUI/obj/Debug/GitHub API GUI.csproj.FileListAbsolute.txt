@@ -1,0 +1,11 @@
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\bin\Debug\GitHub API GUI.exe.config
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub API GUI.csprojResolveAssemblyReference.cache
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub_API_GUI.Properties.Resources.resources
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub API GUI.csproj.GenerateResource.Cache
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\bin\Debug\GitHub API GUI.exe
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\bin\Debug\GitHub API GUI.pdb
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\bin\Debug\Octokit.dll
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\bin\Debug\Octokit.xml
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub_API_GUI.GithubGUIForm.resources
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub API GUI.exe
+H:\Programming Projects\GitHub API GUI\GitHub API GUI\obj\Debug\GitHub API GUI.pdb
